@@ -27,5 +27,3 @@ jobs:
       with:
         push: true
         tags: docker.io/Alexisz666/dockerzamora:latest
-
-        
