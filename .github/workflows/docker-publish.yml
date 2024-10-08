@@ -26,5 +26,6 @@ jobs:
       uses: docker/build-push-action@v4
       with:
         push: true
-        tags: Alexisz666/dockerzamora:latest
+        tags: docker.io/Alexisz666/dockerzamora:latest
+
         
